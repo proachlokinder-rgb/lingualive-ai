@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: lingualive-ai
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: oregon
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: DEBUG
+        value: "false"
+      - key: ALLOWED_ORIGINS
+        value: "*"

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinguaLive AI</string>
+    <string name="call_title">Phone Call Relay</string>
+    <string name="face_to_face_title">Face to Face</string>
+    <string name="translate_title">Instant Translate</string>
+    <string name="camera_ocr_title">Camera OCR</string>
+    <string name="offline_title">Offline ML Kit</string>
+</resources>

@@ -1,0 +1,13 @@
+.git
+.gitignore
+.vscode
+.idea
+.pytest_cache
+node_modules
+web/node_modules
+android
+tests
+docs
+backend/.env
+*.pyc
+__pycache__
