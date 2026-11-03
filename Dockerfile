@@ -44,3 +44,4 @@ EXPOSE 8000
 # Start server
 WORKDIR /app/backend
 CMD ["python", "run.py"]
+

@@ -11,3 +11,4 @@ docs
 backend/.env
 *.pyc
 __pycache__
+
